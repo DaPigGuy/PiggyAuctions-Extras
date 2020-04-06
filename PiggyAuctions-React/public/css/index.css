@@ -1,0 +1,38 @@
+html {
+    min-height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: url("https://i.imgur.com/FMSfBDu.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#loadingScreen {
+    height: 100vh;
+    flex-direction: column;
+}
+
+.auctionDetails, .userFilters {
+    height: 100%;
+    flex-direction: column;
+}
+
+.font-12 {
+    font-size: 12px;
+}
+
+.font-15 {
+    font-size: 15px;
+}
+
+.border-5 {
+    border-width: 5px;
+}
+
+@media all and (min-width: 768px) {
+    .lore {
+        text-align: left;
+    }
+}

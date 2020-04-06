@@ -1,0 +1,17 @@
+{
+  "name": "piggyauctions-rest",
+  "version": "1.0.0",
+  "description": "Simple PiggyAuctions REST API written in JS",
+  "homepage": "https://github.com/DaPigGuy/PiggyAuctions-Extras",
+  "author": {
+    "name": "DaPigGuy",
+    "email": "dapigguy@gmail.com"
+  },
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "restify": "^8.5.1",
+    "restify-cors-middleware": "^1.1.1",
+    "prismarine-nbt": "^1.2.1",
+    "dotenv": "^8.2.0"
+  }
+}
