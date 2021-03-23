@@ -8,7 +8,7 @@
     "email": "dapigguy@gmail.com"
   },
   "dependencies": {
-    "react": "^16.11.0",
+    "react": "^17.0.2",
     "react-dom": "^16.11.0",
     "react-scripts": "3.4.4",
     "react-bootstrap": "^1.0.0-beta.17",
