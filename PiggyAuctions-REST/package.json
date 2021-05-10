@@ -12,6 +12,6 @@
     "restify": "^8.5.1",
     "restify-cors-middleware": "^1.1.1",
     "prismarine-nbt": "^1.2.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^9.0.1"
   }
 }
